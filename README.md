@@ -56,6 +56,8 @@ To get started with this repository:
 2. Open Unity Hub and add the cloned project.
 3. Import any required packages as specified in the packages & assets folder.
 
+<img src="https://miro.medium.com/v2/resize:fit:1002/1*Tlq8iZ4-jp0NB13fuNIMNg.png" alt="game developement" />
+
 ## Usage
 1. Open Unity and load the project.
 2. Follow the instructions in the lab reports and assignments.
