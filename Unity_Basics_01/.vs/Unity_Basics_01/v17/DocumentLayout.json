@@ -1,18 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\DCSE\\7th_semester\\Game Development\\Lab01\\Unity_Basics_01\\",
+  "WorkspaceRootPath": "E:\\game developement\\Game-developement\\Unity_Basics_01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C85638F2-210A-D87C-2A41-49D635F6BE14}|Assembly-CSharp.csproj|d:\\dcse\\7th_semester\\game development\\lab01\\unity_basics_01\\assets\\scripts\\lab04cube3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C85638F2-210A-D87C-2A41-49D635F6BE14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lab04cube3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C85638F2-210A-D87C-2A41-49D635F6BE14}|Assembly-CSharp.csproj|D:\\DCSE\\7th_semester\\Game Development\\Lab01\\Unity_Basics_01\\assets\\scripts\\lab04cube2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C85638F2-210A-D87C-2A41-49D635F6BE14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lab04cube2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C85638F2-210A-D87C-2A41-49D635F6BE14}|Assembly-CSharp.csproj|D:\\DCSE\\7th_semester\\Game Development\\Lab01\\Unity_Basics_01\\assets\\scripts\\lab04cube1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C85638F2-210A-D87C-2A41-49D635F6BE14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lab04cube1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C85638F2-210A-D87C-2A41-49D635F6BE14}|Assembly-CSharp.csproj|e:\\game developement\\game-developement\\unity_basics_01\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C85638F2-210A-D87C-2A41-49D635F6BE14}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Lab04Cube1.cs",
-              "DocumentMoniker": "D:\\DCSE\\7th_semester\\Game Development\\Lab01\\Unity_Basics_01\\Assets\\scripts\\lab04Cube1.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\lab04Cube1.cs",
-              "ToolTip": "D:\\DCSE\\7th_semester\\Game Development\\Lab01\\Unity_Basics_01\\Assets\\scripts\\lab04Cube1.cs",
-              "RelativeToolTip": "Assets\\scripts\\lab04Cube1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T06:29:23.996Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "lab04Cube2.cs",
-              "DocumentMoniker": "D:\\DCSE\\7th_semester\\Game Development\\Lab01\\Unity_Basics_01\\Assets\\scripts\\lab04Cube2.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\lab04Cube2.cs",
-              "ToolTip": "D:\\DCSE\\7th_semester\\Game Development\\Lab01\\Unity_Basics_01\\Assets\\scripts\\lab04Cube2.cs",
-              "RelativeToolTip": "Assets\\scripts\\lab04Cube2.cs",
-              "ViewState": "AgIAAAQAAAAgzMzMzMw3wBgAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T06:29:28.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "lab04Cube3.cs",
-              "DocumentMoniker": "D:\\DCSE\\7th_semester\\Game Development\\Lab01\\Unity_Basics_01\\Assets\\scripts\\lab04Cube3.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\lab04Cube3.cs",
-              "ToolTip": "D:\\DCSE\\7th_semester\\Game Development\\Lab01\\Unity_Basics_01\\Assets\\scripts\\lab04Cube3.cs",
-              "RelativeToolTip": "Assets\\scripts\\lab04Cube3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "E:\\game developement\\Game-developement\\Unity_Basics_01\\Assets\\scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\PlayerMovement.cs",
+              "ToolTip": "E:\\game developement\\Game-developement\\Unity_Basics_01\\Assets\\scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T06:29:31.187Z",
+              "WhenOpened": "2024-10-27T12:18:44.991Z",
               "EditorCaption": ""
             }
           ]
